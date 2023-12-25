@@ -1,0 +1,146 @@
+// // .container {
+// //     font-family: 'Arial, sans-serif';
+// //     margin: 20px;
+// //   }
+  
+// //   .item {
+// //     list-style: none;
+// //     margin-bottom: 10px;
+// //     font-size: 16px;
+// //     border: 1px solid #ddd; /* Додаємо рамку для виділення слова */
+// //     padding: 10px; /* Забезпечуємо відступ для зручності читання */
+// //     border-radius: 5px; /* Закруглюємо кути блоку слова */
+// //     display: flex;
+// //     align-items: center; /* Вирівнювання елементів по вертикалі */
+// //   }
+  
+// //   .title {
+// //     font-weight: bold;
+// //     color: #333; /* Змінюємо колір заголовку слова */
+// //   }
+  
+// //   .transcription {
+// //     color: #555;
+// //   }
+  
+// //   .translation {
+// //     color: #777;
+// //   }
+  
+// //   .icon {
+// //     cursor: pointer; /* Додаємо покажчик, щоб підказати на можливість натискання */
+// //     vertical-align: middle; /* Додаємо вирівнювання по вертикалі */
+// //     margin-left: 15px; /* Додаємо невеликий відступ між іконкою і текстом */
+// //   }
+  
+// //   .buttons {
+// //     padding: 10px;
+// //     margin: 5px;
+// //     font-size: 16px;
+// //     background-color: #008CBA;
+// //     color: white;
+// //     border-radius: 5px;
+// //     cursor: pointer;
+// //   }
+
+// //   .input {
+// //     margin-right: 10px;
+// //   }
+// .item {
+//   list-style: none;
+//   margin-bottom: 10px;
+//   font-size: 16px;
+//   border: 1px solid #ddd; 
+//   padding: 10px;
+//   border-radius: 45px; 
+//   display: flex;
+//   align-items: center; 
+// }
+
+
+
+// .transcription {
+//   color: #555;
+// }
+
+// .translation {
+//   color: #777;
+// }
+
+// .icon {
+//   cursor: pointer; 
+//   vertical-align: middle;
+//   margin-left: 15px; 
+// }
+
+// .buttons {
+//   padding: 10px;
+//   margin: 5px;
+//   font-size: 16px;
+//   color: #008CBA;
+//   border: 1px solid #008CBA;
+//   border-radius: 45px;
+//   cursor: pointer;
+// }
+
+// .input {
+//   margin-right: 10px;
+// }
+
+// .modal {
+//   display: flex;
+//   flex-direction: column;
+//   align-items: center;
+//   justify-content: center;
+//   // min-height: 100vh;
+//   margin: 0 auto;
+//   border-radius: 5px;
+//   background-color: lightgrey;
+//   position: fixed;
+//   top: 50%;
+//   left: 50%;
+//   transform: translate(-50%, -50%);
+//   background-color: white;
+//   padding: 10px;
+//   border-radius: 8px;
+//   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+// }
+
+.item {
+  list-style: none;
+  margin-bottom: 10px;
+  font-size: 16px;
+  border: 1px solid #ddd; 
+  padding: 10px;
+  border-radius: 45px; 
+  display: flex;
+  align-items: center; 
+}
+  
+.transcription {
+  color: #555;
+}
+
+.translation {
+  color: #777;
+}
+
+.icon {
+  cursor: pointer; 
+  vertical-align: middle;
+  margin-left: 15px; 
+}
+
+.buttons {
+  padding: 10px;
+  margin: 5px;
+  font-size: 16px;
+  color: #008CBA;
+  border: 1px solid #008CBA;
+  border-radius: 45px;
+  cursor: pointer;
+}
+
+.input {
+  margin-right: 10px;
+}

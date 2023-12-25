@@ -1,0 +1,38 @@
+  .item {
+    list-style: none;
+    margin-bottom: 10px;
+    font-size: 16px;
+    border: 1px solid #ddd; 
+    padding: 10px;
+    border-radius: 45px; 
+    display: flex;
+    align-items: center; 
+  }
+    
+  .transcription {
+    color: #555;
+  }
+  
+  .translation {
+    color: #777;
+  }
+  
+  .icon {
+    cursor: pointer; 
+    vertical-align: middle;
+    margin-left: 15px; 
+  }
+  
+  .buttons {
+    padding: 10px;
+    margin: 5px;
+    font-size: 16px;
+    color: #008CBA;
+    border: 1px solid #008CBA;
+    border-radius: 45px;
+    cursor: pointer;
+  }
+
+  .input {
+    margin-right: 10px;
+  }

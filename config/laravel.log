@@ -1,0 +1,18 @@
+[2023-12-23 22:51:33] local.ERROR: Command "key:generet" is not defined.
+
+Did you mean one of these?
+    event:generate
+    key:generate
+    ziggy:generate {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"key:generet\" is not defined.
+
+Did you mean one of these?
+    event:generate
+    key:generate
+    ziggy:generate at /home/andre140/public_html/vendor/symfony/console/Application.php:725)
+[stacktrace]
+#0 /home/andre140/public_html/vendor/symfony/console/Application.php(262): Symfony\\Component\\Console\\Application->find()
+#1 /home/andre140/public_html/vendor/symfony/console/Application.php(174): Symfony\\Component\\Console\\Application->doRun()
+#2 /home/andre140/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(201): Symfony\\Component\\Console\\Application->run()
+#3 /home/andre140/public_html/artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle()
+#4 {main}
+"} 
